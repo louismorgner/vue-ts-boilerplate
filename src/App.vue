@@ -10,6 +10,7 @@ import LogoSVG from "./components/svg/LogoSVG.vue";
 
     <div class="lg:flex lg:place-items-start lg:flex-wrap">
       <HelloWorld msg="You did it!" />
+      <p>test</p>
 
       <nav
         class="lg:text-left lg:-ml-4 lg:text-base lg:px-0 lg:py-4 lg:mt-4 w-full mt-8 text-xs text-center"
